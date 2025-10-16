@@ -28,5 +28,5 @@ Microservices E-Commerce – GraphQL-based architecture with 35% faster query re
 
 📫 Connect
 
-[LinkedIn]([url](https://www.linkedin.com/in/shravan-ramamoorthy/))
+[LinkedIn]([https://www.linkedin.com/in/shravan-ramamoorthy/])
 [Email](mailto:ramamoorthyshravan6@gmail.com)
