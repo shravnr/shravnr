@@ -1,4 +1,4 @@
-# Hi, I’m Shravan Ramamoorthy
+# 👋 Hi, I’m Shravan Ramamoorthy
 
 Software Engineer with experience in Java, Python, and JavaScript. I build scalable, reliable full-stack systems and AI-integrated SaaS products.
 
@@ -23,5 +23,4 @@ Tools: Docker, Podman, AWS, Redis, RabbitMQ, GitHub Actions
 
 <h3>Connect</h3>
 
-[LinkedIn](https://www.linkedin.com/in/shravan-ramamoorthy/)  
-[Email](mailto:ramamoorthyshravan6@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/shravan-ramamoorthy/) | [Email](mailto:ramamoorthyshravan6@gmail.com)
