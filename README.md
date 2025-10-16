@@ -15,12 +15,6 @@ Tools: Docker, Podman, AWS, Redis, RabbitMQ, GitHub Actions
 - Built a real-time AI chat system using React, Node, and OpenAI API — supporting 150+ users.  
 - Developed 20+ production features for a virtual event SaaS serving 500+ clients globally.  
 
-<h3>Featured Projects</h3>
-
-- Distributed File Storage System – Consistent hashing and replication for high availability.  
-- ExpenseTrack App – Multi-user finance tracker with category insights.  
-- Microservices E-Commerce – GraphQL-based architecture with 35% faster query response.  
-
 <h3>Connect</h3>
 
 [LinkedIn](https://www.linkedin.com/in/shravan-ramamoorthy/) | [Email](mailto:ramamoorthyshravan6@gmail.com)
