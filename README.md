@@ -4,10 +4,10 @@ Software Engineer with experience in Java, Python, and JavaScript. I build scala
 
 <h3>Tech Stack</h3>
 
-Languages: Java, Python, JavaScript  
-Frameworks: Spring Boot, React.js, Node.js, Vue.js  
-Databases: PostgreSQL, MongoDB, Oracle  
-Tools: Docker, Podman, AWS, Redis, RabbitMQ, GitHub Actions  
+- Languages: Java, Python, JavaScript  
+- Frameworks: Spring Boot, React.js, Node.js, Vue.js  
+- Databases: PostgreSQL, MongoDB, Oracle  
+- Tools: Docker, Podman, AWS, Redis, RabbitMQ, GitHub Actions  
 
 <h3>Recent Work</h3>
 
