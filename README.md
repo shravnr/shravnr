@@ -13,7 +13,7 @@ I build scalable, reliable full-stack systems and AI-integrated SaaS products.
 <h3>Recent Work</h3>
 
 - Contributing to an enterprise SaaS platform, enhancing Spring Boot microservices and data automation.  
-- Built a real-time AI chat system using React, Node, and OpenAI API — supporting 150+ users.  
+- Built a real-time AI chat system using React, Node, and OpenAI API supporting 150+ users.  
 - Developed 20+ production features for a virtual event SaaS serving 500+ clients globally.  
 
 <h3>Connect</h3>
