@@ -1,5 +1,3 @@
-# 👋 Hi, I’m Shravan Ramamoorthy
-
 Software Engineer with experience in Java, Python, and JavaScript. 
 I build scalable, reliable full-stack systems and AI-integrated SaaS products.
 
