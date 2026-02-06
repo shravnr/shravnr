@@ -1,4 +1,4 @@
-Software Engineer with experience in Java, Python, and JavaScript. 
+Software Engineer specializing in AI with 3+ years of experience. 
 I build scalable, reliable full-stack systems and AI-integrated SaaS products.
 
 <h3>Tech Stack</h3>
